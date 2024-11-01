@@ -8,3 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 obs: imagens estão na pasta assets
+
+Projeto de REACT no qual clonei o site da Amazon e as principais funcionalidades são alerts que aparecem em autalizar cep, pesquisar na pagina home e no botão login
